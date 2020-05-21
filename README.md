@@ -20,7 +20,7 @@ TikTok Video Downloader lets you download Image or/Video post from TikTok by jus
 * Php cURL support
 * Well Rich Documentation
 
-# Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader-v3/)
+# Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader)
 
 # Requirements
 * Any Shared/VPS/Cloud/Dedicated Server
