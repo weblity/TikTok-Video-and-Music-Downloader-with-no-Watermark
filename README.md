@@ -1,5 +1,6 @@
 # TikTok-Video-and-Music-Downloader-with-no-Watermark
 TikTok Video Downloader lets you download Image or/Video post from TikTok by just a Video URL. Our tool automatically Generates download link of the video.
+![Banner](https://user-images.githubusercontent.com/45661927/82603383-dd72e580-9bb2-11ea-848f-f47bdf913e67.jpg)
 # Features
 * TikTok Video Downloader (without Watermark)
 * Download Original Video
