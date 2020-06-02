@@ -2,32 +2,31 @@
 TikTok Video Downloader lets you download Image or/Video post from TikTok by just a Video URL. Our tool automatically Generates download link of the video.
 ![Banner](https://user-images.githubusercontent.com/45661927/82603383-dd72e580-9bb2-11ea-848f-f47bdf913e67.jpg)
 # Features
-* TikTok Video Downloader (without Watermark)
-* Download Original Video
-* Download without Watermark Video
-* Beautiful Design
-* Full Desktop Responsive
-* Full Mobile Responsive
-* Video Preview
-* Advertisement Space
-* Bootstrap Framework
-* Shared/VPS/Cloud/Dedicated Hosting Compatible
-* No Database Needed
-* Signe or Multiple Ads Section
-* Run on Localhost or Any Linux/Php Server
-* SEO Ready
-* Ajax Requests
-* Php cURL support
-* Well Rich Documentation
+*Script has Front office and a Back office( Admin panel) to maintain Advertisement & Few static pages like ( Terms of condition, privacy policy , How to download tutorials )
+*Responsive Design
+*Vue.js Single Page Application
+*SEO Optimized
+*Mobile Version Optimized
+*Using TikTok Web Api
+*Download Original Audio
+*Original + Without Watermark Video Download
+*Multiple Ad Spaces
+*Social Sharing Option
+*Custom Video Player
+*Direct Link Sharing
+*Very Well Commented code
 
-# Demo : [Click Here for Demo](http://edgemojo.com/tik-tok-videos-downloader)
+# Demo : [Click Here for Demo](https://t2tok.com/)
+# Buy Here 99 USD : [Click here to BUY](https://transferwise.com/invite/u/manasp1)
+
+IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund. Make sure you check the demo before buy.
 
 # Requirements
 * Any Shared/VPS/Cloud/Dedicated Server
 * Code Editing Software (eg: Dreamweaver, Sublime Text or Notepad)
 * Local Server for testing (eg: Wamp Server or Xammp Server)
 
-# Price Only : 5 USD
+# Price Only : 99 USD
 
-# Want to buy Contact via Email
+# Want to buy with Paypal Contact via Email
 * edgemojo1[@]gmail.com
