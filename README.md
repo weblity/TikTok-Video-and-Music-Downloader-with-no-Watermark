@@ -16,7 +16,7 @@ TikTok Video Downloader lets you download Image or/Video post from TikTok by jus
 * Direct Link Sharing
 * Very Well Commented code
 
-# Demo : [Click Here for Demo](https://t2tok.com/)
+# Demo : [Click Here for Demo](https://t2tmate.com/)
 # Buy Here 99 USD : [Click here to BUY](https://transferwise.com/invite/u/manasp1)
 
 IMP : Hence it's digital download zip file,I will send you the code direct to your email id, So there is no refund. Make sure you check the demo before buy.
